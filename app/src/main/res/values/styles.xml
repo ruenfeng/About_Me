@@ -14,4 +14,7 @@
         <item name="android:textSize">@dimen/text_font_size</item>
     </style>
 
+    <style name="NameStyle">
+    </style>
+
 </resources>

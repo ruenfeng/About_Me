@@ -40,4 +40,6 @@
         Actually nothing to show just to test the view :3
     </string>
     <string name="what_is_your_name">What is your Nickname?</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>

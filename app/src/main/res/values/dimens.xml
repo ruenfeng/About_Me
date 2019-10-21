@@ -2,4 +2,5 @@
 <resources>
     <dimen name="layout_padding">16px</dimen>
     <dimen name="text_font_size">18sp</dimen>
+    <dimen name="layout_margin">16dp</dimen>
 </resources>
