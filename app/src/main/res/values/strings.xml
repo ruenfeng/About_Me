@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Emmett Lim Ruen Feng</string>
+    <string name="my_pic">My Profile Picture</string>
+    <string name="my_profile_description">
+        Date of Birth: 3/7/1999\n
+        Address: 18, Solok Sri Sarawak 35B\n
+        Hobbies: Online games, Music\n
+        Anything: XD\n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        Actually nothing to show just to test the view :3
+    </string>
+    <string name="what_is_your_name">What is your Nickname?</string>
+</resources>
